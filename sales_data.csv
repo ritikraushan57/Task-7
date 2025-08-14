@@ -1,0 +1,11 @@
+id,product,quantity,price
+1,Apples,10,2.5
+2,Bananas,15,1.2
+3,Oranges,8,3.0
+4,Apples,5,2.5
+5,Bananas,7,1.2
+6,Oranges,12,3.0
+7,Grapes,20,4.0
+8,Mangoes,6,5.5
+9,Grapes,15,4.0
+10,Mangoes,10,5.5
